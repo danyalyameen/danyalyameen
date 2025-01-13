@@ -4,12 +4,6 @@
   <br />
 </p>
 
-<p align="center">
-		<img alt="Roaa's Welcome Message"
-			 src="https://drive.google.com/file/d/1qqRuGHqgOqVRO1c_N-fZb3ebJ6FSbqTY/view?usp=drive_link">
-  <br />
-</p>
-
 ## 🚀 About Me
 
 I'm a passionate **Flutter Developer** from Pakistan 🇵🇰, with expertise in creating high-quality, professional applications. I love turning ideas into reality with clean, maintainable, and scalable code. As a 17-year-old developer, I believe in constant learning and growth. My journey in software development started with basic knowledge of **Java**, **XML**, **HTML**, **CSS**, and **JavaScript**, and now I specialize in Flutter.
