@@ -4,9 +4,9 @@
   <br />
 </p>
 
-### 🚀 About Me
+## 🚀 About Me
 
-## Flutter Developer | Firebase | Supabase | APIs | State Management (Stacked) | UI/UX Enthusiast
+### Flutter Developer | Firebase | Supabase | APIs | State Management (Stacked) | UI/UX Enthusiast
 I am a dedicated Flutter developer with a strong focus on building high-performance, scalable, and user-centric mobile applications. With expertise in Flutter, Firebase, Supabase, REST APIs, and Stacked state management, I create seamless cross-platform experiences that prioritize efficiency and usability.
 
 I have successfully developed multiple feature-rich applications, implementing advanced state management, real-time data synchronization, API integrations, and interactive UI/UX animations. My development approach emphasizes clean architecture, maintainable code, and performance optimization to ensure a smooth and engaging user experience.
@@ -17,21 +17,21 @@ I am actively seeking opportunities to contribute my expertise and grow as a dev
 
 📩 Feel free to reach out for collaboration, projects, or discussions.
 
-### 🛠 My Current Focus
+## 🛠 My Current Focus
 
 - 📌 Learning **BLoC state management** to build scalable and maintainable Flutter apps.
 - 🌍 Staying connected with **social media & developer communities** to stay updated with the latest trends.
 
-### 📂 Featured Projects
+## 📂 Featured Projects
 
 - 🏦 **[Montra - Expense Tracker](https://github.com/danyalyameen/Montra-Expense-Tracker)** - Track your daily expenses & get notifications when exceeding budget.
 - 🤖 **[Chatty AI](https://github.com/danyalyameen/Chatty-AI)** - Smart AI-powered chatbot with interactive UI.
 
-### 🌟 Fun Fact
+## 🌟 Fun Fact
 
 When I’m not coding, I enjoy exploring new ideas and engaging with the developer community.
 
-### 🧰 Tools & Technologies
+## 🧰 Tools & Technologies
 <div align="start">
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
