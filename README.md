@@ -5,22 +5,22 @@
 </p>
 
 ## 🚀 About Me
+### Flutter Developer | Software Developer | Mobile Application Developer
 
-### Flutter Developer | Firebase | Supabase | APIs | State Management (Stacked) | UI/UX Enthusiast
-I am a dedicated Flutter developer with a strong focus on building high-performance, scalable, and user-centric mobile applications. With expertise in Flutter, Firebase, Supabase, REST APIs, and Stacked state management, I create seamless cross-platform experiences that prioritize efficiency and usability.
+As a Flutter developer, I constantly work on projects to improve my abilities and create effective mobile apps. Working directly with Flutter, Firebase, Supabase, REST APIs, and Stacked State Management has improved my capacity to develop cross-platform applications that operate well.
 
-I have successfully developed multiple feature-rich applications, implementing advanced state management, real-time data synchronization, API integrations, and interactive UI/UX animations. My development approach emphasizes clean architecture, maintainable code, and performance optimization to ensure a smooth and engaging user experience.
+Working on a variety of projects has taught me how to integrate APIs, create dynamic UI/UX animations, manage the State of Views (Screens), and synchronize data in real-time. Writing clear, maintainable code and performance optimization for a flawless user experience are my key priorities.
 
-In addition to app development, I have built my portfolio website, showcasing my skills and projects. Currently, I am learning Bloc state management to further enhance my expertise. I am always eager to explore new technologies and improve my skill set.
+In addition to developing apps, I have created a website for my Portfolio to display my work. I'm currently learning Bloc State Management to broaden my expertise. I'm constantly keen to expand my skill set and investigate new technologies.
 
-I am actively seeking opportunities to contribute my expertise and grow as a developer. Let’s connect and explore potential collaborations!
+I'm looking forward to collaborating on impactful projects and growing as a developer. Let’s connect!
 
-📩 Feel free to reach out for collaboration, projects, or discussions.
+📩 Feel free to reach out for collaborations, projects, or discussions.
 
 ## 🛠 My Current Focus
 
-- 📌 Learning **BLoC state management** to build scalable and maintainable Flutter apps.
-- 🌍 Staying connected with **social media & developer communities** to stay updated with the latest trends.
+- 📌 Learning **BLOC State Management** to build scalable and maintainable Flutter apps.
+- 🌍 Staying connected with **Social Media & Developer Communities** to stay updated with the latest trends.
 
 ## 📂 Featured Projects
 
