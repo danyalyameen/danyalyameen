@@ -7,15 +7,11 @@
 ## 🚀 About Me
 ### Flutter Developer | Software Developer | Mobile Application Developer
 
-As a Flutter developer, I constantly work on projects to improve my abilities and create effective mobile apps. Working directly with Flutter, Firebase, Supabase, REST APIs, and Stacked State Management has improved my capacity to develop cross-platform applications that operate well.
+As a Flutter Developer with 1+ years of experience, I specialize in building scalable, high-performance mobile applications. My expertise includes state management (Bloc, GetX, Stacked), Firebase & Supabase integration, API handling, and clean architecture. I ensure smooth UI/UX experiences, performance optimization, and maintainable code while following best practices in software development and testing. Whether developing new features, debugging complex issues, or optimizing app performance, I bring a problem-solving mindset to every project.
 
-Working on a variety of projects has taught me how to integrate APIs, create dynamic UI/UX animations, manage the State of Views (Screens), and synchronize data in real-time. Writing clear, maintainable code and performance optimization for a flawless user experience are my key priorities.
+I am continuously expanding my skill set to stay ahead in mobile app development trends. Moving forward, I aim to transition into full-stack development, enhancing my expertise in backend technologies, cloud computing, and advanced API architectures. Keeping up with the latest software development methodologies, I focus on delivering efficient, scalable, and future-proof applications.
 
-In addition to developing apps, I have created a website for my Portfolio to display my work. I'm currently learning Bloc State Management to broaden my expertise. I'm constantly keen to expand my skill set and investigate new technologies.
-
-I'm looking forward to collaborating on impactful projects and growing as a developer. Let’s connect!
-
-📩 Feel free to reach out for collaborations, projects, or discussions.
+Currently, I am freelancing on Fiverr, working with global clients to develop top-quality mobile applications. However, I am open to new opportunities, collaborations, and impactful projects—freelance, remote, or full-time. Let’s connect and build something exceptional together!
 
 ## 🛠 My Current Focus
 
