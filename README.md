@@ -1,54 +1,60 @@
 <p align="center">
 		<img alt="Danyal Welcome Message"
-			 src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=+%F0%9F%91%8B+Hi+there%2C+I'm+Danyal">
+			 src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=+%F0%9F%91%8B+Hi+there%2C+I'm+Danyal.">
   <br />
 </p>
+<p align="center"><b>Flutter Team Lead @ DevNest Labs</b></p>
 
-## 🚀 About Me
-### Flutter Developer | Software Developer | Mobile Application Developer
+---
 
-As a Flutter Developer with 1+ years of experience, I specialize in building scalable, high-performance mobile applications. My expertise includes state management (Bloc, GetX, Stacked), Firebase & Supabase integration, API handling, and clean architecture. I ensure smooth UI/UX experiences, performance optimization, and maintainable code while following best practices in software development and testing. Whether developing new features, debugging complex issues, or optimizing app performance, I bring a problem-solving mindset to every project.
+## 🏢 About Me
 
-I am continuously expanding my skill set to stay ahead in mobile app development trends. Moving forward, I aim to transition into full-stack development, enhancing my expertise in backend technologies, cloud computing, and advanced API architectures. Keeping up with the latest software development methodologies, I focus on delivering efficient, scalable, and future-proof applications.
+A Flutter developer currently leading the Flutter Developer team at DevNest Labs — where we don’t just build apps, we craft experiences that scale.
 
-Currently, I am freelancing on Fiverr, working with global clients to develop top-quality mobile applications. However, I am open to new opportunities, collaborations, and impactful projects—freelance, remote, or full-time. Let’s connect and build something exceptional together!
+At DevNest Labs, we specialize in building **cross-platform mobile apps** that are not only beautifully designed but also high-performing, maintainable, and aligned with real business needs.
 
-## 🛠 My Current Focus
+---
 
-- 📌 Learning **BLOC State Management** to build scalable and maintainable Flutter apps.
-- 🌍 Staying connected with **Social Media & Developer Communities** to stay updated with the latest trends.
+## What makes us different?  
+We approach every project with a **user-first mindset**, backed by clean architecture and scalable code — whether it's an MVP for a startup or a fully-fledged app for an established business.
 
-## 📂 Featured Projects
+🔹 **Your vision** becomes our mission.  
+🔹 **Your users’ needs** drive our decisions.  
+🔹 **Your growth** is our priority.
 
-- 🏦 **[Montra - Expense Tracker](https://github.com/danyalyameen/Montra-Expense-Tracker)** - Track your daily expenses & get notifications when exceeding budget.
-- 🤖 **[Chatty AI](https://github.com/danyalyameen/Chatty-AI)** - Smart AI-powered chatbot with interactive UI.
+---
 
-## 🌟 Fun Fact
+## ✅ Why Clients Trust Us
 
-When I’m not coding, I enjoy exploring new ideas and engaging with the developer community.
+💡 **Product-Centric Approach** — We don’t just write code; we build experiences.  
+🛠️ **Scalable Codebase** — MVVM, Clean Architecture, SOLID Principles  
+🚀 **Performance Optimized** — Fast, fluid apps with zero compromise on UX  
+💬 **Clear Communication** — Always aligned with your goals and timelines  
+📱 **Full Flutter Stack** — Firebase, REST APIs, Realtime updates, and more  
+🤝 **Long-Term Partnerships** — Our goal isn't one-time delivery; it's continued success  
+🔒 **Quality & Commitment** — Code you can trust, people you can rely on
 
-## 🧰 Tools & Technologies
-<div align="start">
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-    <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</div>
+---
 
+## 🌐 Connect With Me
 
-## 📫 Connect with Me
-<div align="start">
-<a href="https://danyalyameen.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-6ff2a5?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAAFM0lEQVR4nO2a2W9VVRTGf61BRaW0Di++iLTw5IDDg1ERp2g0mjhQVBK1ElBwqmjC4JM4NTxo9B+oGJ8cMCZiEHGWiAoiDikyqC8OlRrEgoJYe8xKvk1WNueec+695xZq+JKT9J717XXOOntYa3+7cBiFMV7XqEE7MAdYBnwK7ACS6Nohm3Fmq80hgTZgPvBFyksXvTYAD8jXiOMEYCkw6F7I/h5yv18ELnS/pwIvud9DUfs/gJ6RCqgJmAUMuBd4E7gZWKzffwG3uTaBF3A7sEf3rM0twCrH2w506VkNwfHAa+6BHwIXyHYx8A8wDEyP2sWBGDrFtTbTdM967yPHf7URvTMZ+N4NIfuqAWOATbI9ktI2LRDDo7q/ST4CrDd2ybYN6CgriLOAX+V4fYrjB2X7FjiyikCMu1k28+ExCfhcNnv2lDJ6IgTxLnBcZB+rMW32qyr4qBSI4Wo3L8yXxzjgfRdMzT3T5oZTH3BMCudO2b/M8JMVCGqbKK/EONYN261AK1WiKZrYYejcEzn7RLZ5dQQyT/a17t543Q9DL1zLq13NZrmJvRD4zjnbp+VyseO01BFIi5vcC4A3gL2unfXEQy7n+IUmN9kNRF/6CC2rqxSI/0q7df9ZYC5wJXAuMFG9F3ituneOOHcBTwMrXSCJS5artUzbs9FoCPOl0LK8VA0+AJor5JMuN8nLvAZUr52Y8txml2esAshEm+vCkOzSYON0p3jnAddoWPTqS67XQvG7e8mdumfL6tsqHBcB1wHnO05TxnOnunIms1dCTliTE/Ak8X4kH3lzJOBn8fIq4o/F684ihSr2hhxnneK9XmIgK8SbXvDZ1uupaBfhT+DoHGc94i4pMZDHxHsihzdWhalxJ6QR5shoXyYPy8WdUWIgVkEb7+UC3JXiWpo4AM/LeF8BR6F0uKTEQC51pVAeusV9Ls34mYxWkufhG3FPKzGQM8T7qgD38pRqYD/CHvvUKlaYk0sMxHwl8p2HMJ9/S0s2w8qofm9QCX/LUVrZXmsg5mtYvvPqqTF613/jpN3SgCw9Ute4/2UgzTUOraNKHFrmK1HlS61Da7RN9omVJjtSAIsuv1+Le3qJgZxZYLcZcJm4VncdgGWjMCH2phlny2g7tDy8Iu5Nh2KJ0u6KxljRiPGkuKZNHcyi8ZRKpA0i3FiwlF5RYiA2Eqop49dlkeaLZHVXFjrE+6nEQH4Rz1akLKwV7/4sUpu2kYm02CJbXdumXi9V5QVNVtug/eA4lba6tj2+VtvlwMkqTy5yvFyNq8eJ1Gniw0nau3hFvqxru4QNEzhiNGsLXmQe7e+VoJCYBIMkGdtEvROdgSSScmwVeUoBWol9thJrJTnoCslBz0hK2h353Ae8FclB98rWX43i2KVGgxLHtrqH7NUkX+ACqVegG1SJtEjnLaEESiQOLnTqzq1UgSadT8SS6dzopRslmbYCd+uZ/h2K5JjUIbbNidgmKFcSsTfWEcjGHBG7T/Yt9ZwOd7hjhffikrnBxwotrhTqL+MEeIocJUqYJs6liXqb6zjosfzlMdlpbP0qKEtBhxtmu7QYpB29LakikFCS9EV7oDucqL2lEWfxrU7PSrSmh6Q5zR2GdhYIZIY7DLUkF3TdNdHEbth/TDTpfCLMm0Tr/UzgYf3eE/VYHEhXdDw9U8J34PVXu8TWgzZVAKGcSfT3UPRF438YCOV/pX8YeLyW47WyAuqWoFxrWbJOPg5KAGmYoI1OrxJlWi02oMTXK27F/cShiJacEuYwcPgPknvUyL7T8dYAAAAASUVORK5CYII=" />
-</a>
+| Platform       | Link                                                                 |
+|----------------|----------------------------------------------------------------------|
+| 🔗 Linktree     | [Contact Me](https://linktr.ee/danyalyameen)             |
+| 💼 LinkedIn     | [Linkedin Profile](https://www.linkedin.com/in/danyalyameen/) |
+| 🏢 DevNest Labs | [Linkedin Page](https://www.linkedin.com/company/devnestlabs)           |
 
-<a href="https://www.linkedin.com/in/danyalyameen/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5?&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAAACXBIWXMAAAsTAAALEwEAmpwYAAAFWklEQVR4nO2dW6hWRRTHh+JYpvlgEQV2AbsgZTfKDIKkp0LRghNEDxEVVm89hUEPWnF6Syvo8hA9ZNBLkRBBFysiiJ6ii3k4GNYxxQS7ncyvMn8xOcJ8q+/sPXvv2fuMe9bv7cBa66xZf/bM7Nkz3xijKIqiKIqiKIpyAgCMAePAVmAn8DvKjKvFVlebsa7EWAdMaf1LsTVa16YQJwFPlueheBwFJmzt2hBExajPRBvdlFXb5zCwGVgBLDCZAyxwtdjiauNja7c25gAux4zvgcui/IMeAiwHpkXNpqIM9G7GIJ8MFSNMlIGo3bhpipvG+WxuHDQTgKdF7V6JEXRSBL02SrYZAFwnajcZI6h94fFZGCXbDAAWitrNxAg6RJRMM4LY9VNBmqGCJIYKkhhJCQKcDNxmp3tutvYL8DOwA3gRuNH0HFIRBLga+Jpy3gOWmJ5CCoIAN1T8RrIXWGp6yJwLAiwCfqA6X3T2USczQTYIl3+Al9zajh1T5tu1MLcqekTY3mN6RgqCfCZcNhTYbhS275uekYIgB8V3gMUFtktE+AOmZ6QgyAHhcnaB7TnCdr/pGSkI8pFw2Vhg+7Cw/dD0jBQEWS9cjriXwKvc6udpboC348efwvYB0zNSEGTMTWGrskOnvS0pDJwHfFdBjP3AhaaHzPkT4vmdAbw2YreKZDtwrukppCKI538p8BjwLrDHTYvtGtcLwCrTc0hNkNxBBUmLORcEWF1zcXEPcEvsON6+5OuBR4C3XZdpJxJ/A4fcavPHbn3Nfr+Z37hwNesXPaArSF2mY8ZxEwsrwu6K/r8BzwIXdF2/6AEbFPE/YsUBHgJ+ahjD7tLc1OT9SAasG6d2wIQEicmndt2ti/pFDxjLnoZxRmDHjOeBO4FlwFnu+8yZ7u9b3VR8tq5yF3B+YNlq1yMHQXYBdwDzAttrl34edAO9xE4GFoXEqduOvgvyHHBKYFNlvMV29XlEzFcrxslWkIPis/H6wCYWxZwHvD5ClNUVYmQryL3uPIadGd1vIgGcPuIEwFd2/An0z1MQ71jZyON1bnPFqaYGwJXuqfNZE+ibryA+7kPYfcAHbrfkcfYB24DbQwd6F+8NkdK2QD8VBFgFfEs5XwLXBBZ2pfA9HHLYNXtBgDXAXwFi+IW9KVCU3VUH96wFAS4B/ihYn5LHlY8zE7KVFXhZ+G2KXY++CfKOcLObKB61b+OezVLgqRGD9FsB8e8WPm/WbV/vBeHYl0nJXQX29m1csqzkf9glfJ/P67YvB0GeqLrHC/hE+DxeYn+xsP+xbvtyEGR76NNR0AUV7i1231d8DtVtXw6C7BMupduKgIuEz94Se7s67HO0bvtyEGQgXErfyq2N8Bl01b4cBBki9fbVZq4SpqOGqyAqSDP0CRlGuyyHKaGqfVcFrptXcgnTUcNVEBWkGfqEDKNdlsOUUNW+qwLXzSu5hOmo4SqICtIMfUKG0S7LYUqoat9VgevmlVzCdNRwFUQFaYY+IcNol+UwJVS176rAdfNKLmE6anh2glTFRI7TVb6x6lc54a4aSKQ4XeUbq36VEz6RjkWH0Pb/kQ5BScUMaA/t12zkNHBz7Dhd5RurfqbzgJmBCtJ/Qew2fh+90CUQ96PSPr/GCCoPPK5oHDQT+P+pq8k2LgXbEiXbDACeaeNSsFHX5i2PknGPAa5o69q82S6WVFFmAbi8tYslC65eHbh7+mw/mf1Az7HfJF7puqlBa1eveqLo5cSpXE7s/UzeRMDPvipdXN/tCbNWL7gPYip6N1Uy0I+7KfHOEbeB5sgM8I27AG28j7cFKYqiKIqiKIpiesm/hj3GtsFwaC4AAAAASUVORK5CYII=" />
-</a>
-</div>
-<br>
-<div>
- <h2> Let's build something amazing together! 🚀</h1> <img src="https://komarev.com/ghpvc/?username=danyalyameen&label=Profile%20Visits&style=for-the-badge" alt="Profile Visits" />
+---
+
+## 📩 Let’s Build Something Great
+
+If you're looking for a reliable partner to bring your app idea to life — with care, clarity, and top-tier quality — let's connect.
+
+> We don't just deliver apps.  
+> We deliver **products that perform**.
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=danyalyameen&label=Profile%20Visitors&style=for-the-badge" alt="Profile Views"/>
 </div>
